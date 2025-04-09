@@ -3,3 +3,5 @@ pandas
 scikit-learn
 plotly
 joblib
+numpy 
+sklearn.preprocessing
